@@ -5,9 +5,9 @@
 
 //Question 1
 
-public class Hello_world{
+public class Hello_world2{
    public static void main(String [] args){
-      System.out.print("Hello World\n");
-      System.out.print("This is our first program");
+      System.out.println("Hello World");
+      System.out.println("This is our first program");
       }
    }     
