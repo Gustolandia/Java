@@ -8,5 +8,6 @@
 public class Hello_world3{
    public static void main(String [] args){
       System.out.print("Hello World\nThis is our first program");
+      System.out.print("Hello World\nThis is our first program");
       }
    }     
